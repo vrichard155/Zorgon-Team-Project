@@ -9,4 +9,7 @@ Dados astronômicos // Astronomical data
 Referências // Bibliographic references
 Regras do jogo // Game rules
 
+Apresentação do projeto em slides // Project presentation in slides
+Simulação da versão digital do jogo // Simulation of the digital version of the game
 
+Ideias futuras para o projeto // Future ideas for the project
