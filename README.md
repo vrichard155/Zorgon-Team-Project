@@ -8,6 +8,7 @@ Cartas das estrelas // Stars cards <br />
 Dados astronômicos // Astronomical data <br /> 
 Referências // Bibliographic references <br /> 
 Regras do jogo // Game rules <br /> 
-Apresentação do projeto em slides<br /> 
+Apresentação do projeto em slides // Project presentation in slides <br /> 
+Apresentação do projeto em PDF // Project presentation in PDF <br /> 
 Simulação da versão digital do jogo<br /> 
  
